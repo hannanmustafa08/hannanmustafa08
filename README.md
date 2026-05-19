@@ -2,7 +2,7 @@
 
 I am a Computer Science student at the **Lahore University of Management Sciences (LUMS)**, graduating in 2027. I specialize in building robust, scalable full-stack applications, deep learning systems, and blockchain infrastructure.
 
-📄 **[View my CV](https://your-link-here.com)**
+📄 **[View my CV](([https://drive.google.com/file/d/1Bf2XezpNJoiAYQaAfI5Mx8uWqfTs4_65/view?usp=sharing]))**
 
 ---
 
